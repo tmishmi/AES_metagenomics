@@ -6,3 +6,6 @@ Class II = reported to be a CNS pathogen without iatrogenic introduction but usu
 Class III= unlikely CNS pathogen unless introduced iatrogenically or hospital-acquired infection in a neonate - also if only 1-2 cases reported (466/1488)
 Class IV= not a likely pathogen in the CNS at all (741/1488)
 
+
+Citation: Chitra Pattabiraman and Bhagteshwar Singh, 2024
+Link to this page
