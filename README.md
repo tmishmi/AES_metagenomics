@@ -7,5 +7,5 @@ Class III= unlikely CNS pathogen unless introduced iatrogenically or hospital-ac
 Class IV= not a likely pathogen in the CNS at all (741/1488)
 
 
-Citation: Chitra Pattabiraman and Bhagteshwar Singh, 2024 \n
+Citation: Chitra Pattabiraman and Bhagteshwar Singh, 2024
 https://github.com/tmishmi/AES_metagenomics
